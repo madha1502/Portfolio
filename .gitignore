@@ -1,0 +1,4 @@
+# Exclude personal documents from public repo
+CERTIFICATES/AADHAR CARD.pdf
+CERTIFICATES/ID Card.pdf
+CERTIFICATES/Dummy Marksheet.pdf
